@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Codechef
+class Day11
 {
 	public static void main (String[] args) 
 	{
