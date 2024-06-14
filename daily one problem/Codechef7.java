@@ -6,7 +6,7 @@ class Codechef
 	{
 	   // Update the code below this line.
 	    int i = 11;
-	    while(i < 20){
+	    while(i <= 20){
 	        System.out.println(i);
 	        i = i+2;
 	        
